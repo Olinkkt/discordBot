@@ -3,7 +3,8 @@ import discord
 from discord.ext import tasks
 
 # Set up your Discord bot token
-TOKEN = "MTEwNDg5NzI0NDg5NDg1NTIxOQ.GfwYjB.HASj-AWiQghIvjgzWKroi5-RNIdOWUxE9w2P6M"
+TOKEN = "MTEwNDg5NzI0NDg5NDg1NTIxOQ.GHZZxK.pU5IjWbfS1P7zonx-VW6k8idqKAFFD3bJWk13g
+"
 
 # Define a function to retrieve the F1 race results and post them in the Discord channel
 def post_race_results():
